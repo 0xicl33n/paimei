@@ -1,0 +1,3 @@
+[submodule "pydbg"]
+	path = pydbg
+	url = https://github.com/OpenRCE/pydbg
